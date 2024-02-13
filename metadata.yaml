@@ -1,0 +1,27 @@
+_repo: Masterpieces-of-the-masters-of-fiction_72848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foulke, William Dudley
+    gutenberg_agent_id: '56832'
+    url: http://www.gutenberg.org/2009/agents/56832
+description: ''
+gutenberg_issued: '2024-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72848'
+language: en
+pgterms:marc904: https://archive.org/details/masterpiecesofma00foul/mode/2up
+pgterms:marc905: 20201105123703foulke
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Cosmopolitan press, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Masterpieces of the masters of fiction
+url: http://www.gutenberg.org/ebooks/72848
