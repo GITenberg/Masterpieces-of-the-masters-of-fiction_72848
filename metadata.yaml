@@ -1,11 +1,16 @@
 _repo: Masterpieces-of-the-masters-of-fiction_72848
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72848-h/images/cover.jpg
 creator:
   author:
     agent_name: Foulke, William Dudley
     gutenberg_agent_id: '56832'
     url: http://www.gutenberg.org/2009/agents/56832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72848#Masterpieces-of-the-masters-of-fiction
 gutenberg_issued: '2024-02-01'
 gutenberg_type: Text
 identifiers:
